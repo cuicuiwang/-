@@ -2,7 +2,7 @@
   "name": "up",
   "version": "1.0.0",
   "description": " work",
-  "main": "code-1.js",
+  "main": "part1-1/code-1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
